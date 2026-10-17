@@ -2037,7 +2037,7 @@ export const tools: Tool[] = [
     github: "https://github.com/browser-use/browser-use",
     pricing: {
       type: "freemium",
-      freeTier: "Open source library; $1 one-time cloud credit",
+      freeTier: "Open source library; $1 one-time cloud credit for Google/GitHub/Microsoft signups",
       paidTier: "$0.02/browser-hour, pay as you go",
       creditCardRequired: false,
     },
